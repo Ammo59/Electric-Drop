@@ -4,6 +4,8 @@ I undertook the Electric Drop experiment and developed theoretical models via Op
 
 In this folder lie the assigned figures, models, and code (no technical documentation yet, publishment is on its way).
 
+If you are in dark mode, please click on the image to see it clearly.
+
 | Figure No. | Name | PNG File |
 | :------------ | :-------------: | :-------------: |
 | 1 | Experimental Setup | ![Figure 1 V4 - Final](https://user-images.githubusercontent.com/84933358/209671827-d7d62406-68fc-4521-89e3-ebf0bbb6a57b.png)|
