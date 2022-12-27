@@ -6,8 +6,9 @@ In this folder lie the assigned figures, models, and code (no technical document
 
 | Figure No. | Name | 
 | :------------ | :-------------: | :-------------: |
-| 1 | Experimental Setup |  |
-| 2 | Optical Images of the Drop's Deformation|  |
-| 3 | Curve Fitting and Interpolation | [Num_Project 3.pdf](https://github.com/Ammo59/Portfolio/files/10283985/Num_Project.3_.Curve.Fitting.and.Interpolation.pdf) |
-| 4 | Numerical Integration | [Num_Project 4.pdf](https://github.com/Ammo59/Portfolio/files/10283992/Project.4_.Numerical.Integration.pdf) |
-| 5 | Initial Value Problems | [Num_Project 5.pdf](https://github.com/Ammo59/Portfolio/files/10284179/Project.5_.Initial.Value.Problems.pdf)
+| 1 |Experimental Setup |![Figure 1 V4 - Final](https://user-images.githubusercontent.com/84933358/209671827-d7d62406-68fc-4521-89e3-ebf0bbb6a57b.png)|
+| 2 |Optical Images of the Drop's Deformation at 0kV|![Figure_2](https://user-images.githubusercontent.com/84933358/209671797-3dd20644-07af-46bb-8b0c-d5cd48ff9a2a.png)|
+| 3 |Optical Images of the Drop's Deformation at 8kV| ![Figure_3](https://user-images.githubusercontent.com/84933358/209712394-3df8b84e-bbaa-468e-9876-96c0e67cfed3.png) |
+| 4 |Drop’s Bubble Formation and Evaporation Behavior | ![Figure_4mod](https://user-images.githubusercontent.com/84933358/209712454-c885f1cc-53f9-4904-b0b0-350b8ade04aa.png) |
+| 5 |Hypothesis for the Necking After Impact | ![Figure 5 V1](https://user-images.githubusercontent.com/84933358/209712498-b6cca635-fb16-4823-ace7-8fbe38e5cd1b.png) |
+| 6 |Forces acting on Droplet | ![Figure 6](https://user-images.githubusercontent.com/84933358/209713350-b55c38dc-bfdf-41ac-b95c-ec21c39d2da0.png) |
