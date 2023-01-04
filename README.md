@@ -13,4 +13,4 @@ If you are in dark mode, please click on the image to see it clearly.
 | 3 | Optical Images of the Drop's Deformation at 8kV | ![Figure_3](https://user-images.githubusercontent.com/84933358/209712394-3df8b84e-bbaa-468e-9876-96c0e67cfed3.png) |
 | 4 | Drop’s Bubble Formation and Evaporation Behavior | ![Figure_4mod](https://user-images.githubusercontent.com/84933358/209712454-c885f1cc-53f9-4904-b0b0-350b8ade04aa.png) |
 | 5 | Hypothesis for the Necking After Impact | ![Figure 5 V1](https://user-images.githubusercontent.com/84933358/209712498-b6cca635-fb16-4823-ace7-8fbe38e5cd1b.png) |
-| 6 | Forces acting on Droplet | ![Figure 6](https://user-images.githubusercontent.com/84933358/209713350-b55c38dc-bfdf-41ac-b95c-ec21c39d2da0.png) |
+| 6 | Forces acting on Droplet |![Figure 6](https://user-images.githubusercontent.com/84933358/210669065-7c92755e-d561-4115-aff3-722095af2e00.png) |
