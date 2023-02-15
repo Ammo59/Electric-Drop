@@ -7,7 +7,7 @@ In this folder lie the assigned figures, models, and code (no technical document
 If you are in dark mode, please click on the image to see it clearly.
 
 | Figure No. | Name | PNG File | Brief Summary |
-| :------------ | :-------------: | :-------------: | :-------------: |
+| :------------ | :-------------: | :-------------: | :------------- |
 | 1 | Experimental Setup | ![Rsrch](https://user-images.githubusercontent.com/84933358/218894447-2f46e6b6-3e5f-4d47-815b-218e66fdb139.png) | - Illustrates the experimental setup <br> - Smooth polished stainless-steel substrate <br> - Results displayed on bottom right |
 | 2 | Optical Images of the Drop's Deformation at 0kV |![Figure_2](https://user-images.githubusercontent.com/84933358/209671797-3dd20644-07af-46bb-8b0c-d5cd48ff9a2a.png)| - Exhibits the optical images of the drop's deformation <br> - Times of the water droplet impact are labeled accordingly |
 | 3 | Optical Images of the Drop's Deformation at 8kV | ![Figure_3](https://user-images.githubusercontent.com/84933358/209712394-3df8b84e-bbaa-468e-9876-96c0e67cfed3.png) | - Compiled figure of the water drops deformation <br> - Note that the ScaleBar can be used to determine droplet size |
